@@ -1,0 +1,230 @@
+[
+  {
+    "id": "q01",
+    "type": "truc_tiep",
+    "split": "dev",
+    "question": "At what average daily rate were global observed oil inventories drawn down from March to September 2026?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 9,
+    "evidence_quote": "Global\nobserved oil inventories were drawn down at an\naverage rate of about 2.4 million barrels a day\n(mb/d) from March to September, helping to\nbuffer a persistent production deficit (figure 1.B).",
+    "expected_answer": "Global observed oil inventories were drawn down at an average rate of about 2.4 million barrels per day (mb/d) from March to September 2026.",
+    "filter": null
+  },
+  {
+    "id": "q02",
+    "type": "truc_tiep",
+    "split": "dev",
+    "question": "How many barrels of oil reserves did IEA member countries agree to release in early October 2026, and through what month?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 10,
+    "evidence_quote": "Steep increases in the cost of diesel\ncontributed to International Energy Agency (IEA)\nmember countries agreeing in early October to\nrelease 100 million barrels of oil reserves through\nJanuary 2027, initially focused on diesel.",
+    "expected_answer": "IEA member countries agreed to release 100 million barrels of oil reserves through January 2027.",
+    "filter": null
+  },
+  {
+    "id": "q03",
+    "type": "truc_tiep",
+    "split": "dev",
+    "question": "By what percentages did average January to September 2026 prices increase for gold, silver, and platinum?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 11,
+    "evidence_quote": "Gold, silver, and platinum\nprices regained upward momentum starting in\nJuly, lifting average January to September prices\nfor 2026 by 42, 71, and 110 percent, respectively.",
+    "expected_answer": "Average January to September 2026 prices increased by 42 percent for gold, 71 percent for silver, and 110 percent for platinum.",
+    "filter": null
+  },
+  {
+    "id": "q04",
+    "type": "truc_tiep",
+    "split": "dev",
+    "question": "How much funding has the World Bank Group made available through existing instruments to support countries facing pressures from the Middle East conflict, and how much has already been distributed?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 19,
+    "evidence_quote": "T o support countries facing rising fiscal pressures\nand other impacts from the conflict in the Middle\nEast, the World Bank Group has made $50 billion\nto $60 billion available through existing\ninstruments, including $25 billion in pre-arranged\nfinancing.",
+    "expected_answer": "The World Bank Group has made $50 billion to $60 billion available through existing instruments (including $25 billion in pre-arranged financing), and $8.7 billion has been distributed to 25 countries so far.",
+    "filter": null
+  },
+  {
+    "id": "q05",
+    "type": "truc_tiep",
+    "split": "dev",
+    "question": "How much oil consumption did electric vehicles displace in China during 2026Q2-Q3?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 23,
+    "evidence_quote": "China accounted for about 35 percent of the\ndecline in EMDE oil consumption in 2026Q2-\nQ3 (figure 8.B). This partly reflected the\ndisplacement of 0.6 mb/d (y/y) of oil consumption\nby electric vehicles (EVs)—a now established\ntrend.",
+    "expected_answer": "Electric vehicles displaced 0.6 million barrels per day (y/y) of oil consumption in China during 2026Q2-Q3.",
+    "filter": null
+  },
+  {
+    "id": "q06",
+    "type": "truc_tiep",
+    "split": "dev",
+    "question": "By how much are global observed oil inventories expected to rise by the end of 2027, and what share of the 2026 drawdown does this reverse?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 25,
+    "evidence_quote": "With supply projected to exceed\nconsumption by about 2 mb/d on average over the\nfinal three quarters of 2027, inventories are\nexpected to rise by about 550 mb by year-end,\nreversing roughly 80 percent of the 2026\ndrawdown.",
+    "expected_answer": "Inventories are expected to rise by about 550 million barrels by the end of 2027, reversing roughly 80 percent of the 2026 drawdown.",
+    "filter": null
+  },
+  {
+    "id": "q07",
+    "type": "truc_tiep",
+    "split": "dev",
+    "question": "What share of U.S. LNG exports shifted from Europe to East Asia after the Middle East conflict began?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 28,
+    "evidence_quote": "Since the Middle East conflict began, about 30\npercent of U.S. exports have shifted from Europe\nto East Asia, partly to meet heatwave-driven power\ndemand in a region previously highly reliant on\nGulf LNG (figure 10.B).",
+    "expected_answer": "About 30 percent of U.S. LNG exports shifted from Europe to East Asia since the Middle East conflict began.",
+    "filter": null
+  },
+  {
+    "id": "q08",
+    "type": "dien_dat_lai",
+    "split": "dev",
+    "question": "Why are global oil supplies projected to remain constrained in 2027 even though overall production is expected to rebound?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 13,
+    "evidence_quote": "Refinery throughput is anticipated to recover\nto preconflict levels around mid−2027, as repairs\nto refineries and export facilities progress in the\nMiddle East and Russia, and refining capacity\nexpands elsewhere.",
+    "expected_answer": "While crude production recovers, refined product supplies will lag until around mid-2027 because damaged refineries and export facilities in the Middle East and Russia require repairs.",
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "type": "dien_dat_lai",
+    "split": "dev",
+    "question": "Why did American coal usage drop in 2026 while coal consumption in China and India grew?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 31,
+    "evidence_quote": "By\ncontrast, U.S. consumption is expected to fall by 7\npercent (28 mmt), as the price and availability of\nnatural gas and renewables discourage growth of\ncoal-fired power generation.",
+    "expected_answer": "U.S. coal consumption fell by 7 percent because competitively priced and readily available natural gas and renewable energy discouraged coal-fired power generation.",
+    "filter": null
+  },
+  {
+    "id": "q10",
+    "type": "dien_dat_lai",
+    "split": "dev",
+    "question": "What policy change did Indonesia implement regarding palm oil in biodiesel, and how did it affect palm oil prices in 2026Q3?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 33,
+    "evidence_quote": "Additional support came from Indonesia’s\nraising of the mandatory palm oil share in\nbiodiesel blends from 40 to 50 percent.",
+    "expected_answer": "Indonesia raised its mandatory palm oil blending share in biodiesel from 40 percent to 50 percent, which helped keep palm oil prices 13 percent higher year-on-year in 2026Q3.",
+    "filter": null
+  },
+  {
+    "id": "q11",
+    "type": "dien_dat_lai",
+    "split": "dev",
+    "question": "Why did gold prices pull back in 2026Q3 despite ongoing geopolitical tensions and central bank buying?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 54,
+    "evidence_quote": "The decline reflected higher\ngovernment bond yields internationally;\nexpectations of a Federal Reserve policy rate\nincrease, which materialized in mid-September;\nsimilar rate increases in several other advanced\neconomies; a general appreciation of the U.S.\ndollar; and a partial unwinding of speculative\npositions.",
+    "expected_answer": "Gold prices fell by 5 percent in 2026Q3 due to rising international government bond yields, policy rate hikes by the Federal Reserve and other advanced-economy central banks, a stronger U.S. dollar, and the unwinding of speculative positions.",
+    "filter": null
+  },
+  {
+    "id": "q12",
+    "type": "dieu_kien_ngoai_le",
+    "split": "dev",
+    "question": "What specific assumption about export policies underpins the 2026–27 rice price forecast, and what happened the last time that assumption failed during an El Niño?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 36,
+    "evidence_quote": "The forecast assumes that no\nmajor exporter will impose export restrictions in\nresponse to production declines, as occurred\nduring the 2023–24 El Niño, when such measures\ncontributed to sharp spikes in rice prices.",
+    "expected_answer": "The forecast assumes no major rice exporter will impose export restrictions; during the 2023–24 El Niño, such export bans contributed to sharp spikes in world rice prices.",
+    "filter": null
+  },
+  {
+    "id": "q13",
+    "type": "co_filter",
+    "split": "dev",
+    "question": "In the Fertilizers section, why has muriate of potash (MOP) remained more affordable than nitrogen and phosphate fertilizers during the Middle East conflict?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 47,
+    "evidence_quote": "MOP has been largely shielded from the Middle\nEast conflict, as production in the Gulf region is\nnegligible, and as potash is mined rather than\nproduced from natural gas.",
+    "expected_answer": "MOP has been largely shielded from the Middle East conflict because Gulf production is negligible, potash is mined rather than made from natural gas, and supply was supported by eased U.S. sanctions on Belarus.",
+    "filter": {
+      "section": "Fertilizers"
+    }
+  },
+  {
+    "id": "q14",
+    "type": "co_filter",
+    "split": "dev",
+    "question": "In the Metals and minerals section, what caused COMEX copper prices to trade at a sizable premium over LME prices earlier in 2026?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 50,
+    "evidence_quote": "Earlier in 2026, uncertainty over possible\nU.S. tariffs on refined copper imports generated a\nsizable premium of COMEX copper prices over\nLME prices. The resulting arbitrage drew refined\ncopper into U.S. warehouses, tightening\navailability elsewhere and putting upward pressure\non LME prices (figure 19.C).",
+    "expected_answer": "Uncertainty over possible U.S. tariffs on refined copper imports created a sizable COMEX premium over LME prices, drawing refined copper into U.S. warehouses.",
+    "filter": {
+      "section": "Metals and minerals"
+    }
+  },
+  {
+    "id": "q15",
+    "type": "co_filter",
+    "split": "dev",
+    "question": "In the Agriculture section, what share of the 2010–11 spike in world wheat and maize prices was attributed to government food export restrictions?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 37,
+    "evidence_quote": "During the 2010-11 food price\nspike, for example, such measures are estimated to\nhave accounted for 40 percent of the rise in world\nwheat prices and one-quarter of the rise in world\nmaize prices (figure 14.B; Ha, Kose, and Ohnsorge\n2019).",
+    "expected_answer": "Export restrictions and insulating measures accounted for an estimated 40 percent of the rise in world wheat prices and one-quarter (25 percent) of the rise in world maize prices during the 2010–11 spike.",
+    "filter": {
+      "section": "Agriculture"
+    }
+  },
+  {
+    "id": "q16",
+    "type": "truc_tiep",
+    "split": "test",
+    "question": "By how much did energy prices directly contribute to CPI inflation across G7 countries in recent months?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 17,
+    "evidence_quote": "The\nenergy shock since March has rekindled\ninflationary pressures, with energy directly\ncontributing about 1 percentage point to inflation\nacross the G7 in recent months (figure 6.A).",
+    "expected_answer": "Energy directly contributed about 1 percentage point to CPI inflation across G7 countries in recent months.",
+    "filter": null
+  },
+  {
+    "id": "q17",
+    "type": "truc_tiep",
+    "split": "test",
+    "question": "What caused Arabica coffee prices to rise by 10 percent in 2026Q3?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 39,
+    "evidence_quote": "The recent price increase reflects excessive rainfall\nin Brazil (the world’s largest coffee producer),\nwhich reduced production and pushed global\ninventories to a 27-year low, while a major\nearthquake in Colombia in August disrupted\ncoffee-processing facilities.",
+    "expected_answer": "Arabica coffee prices rose 10 percent in 2026Q3 due to excessive rainfall in Brazil (pushing global inventories to a 27-year low) and an August earthquake in Colombia that disrupted coffee-processing facilities.",
+    "filter": null
+  },
+  {
+    "id": "q18",
+    "type": "dien_dat_lai",
+    "split": "test",
+    "question": "Why did cobalt and lithium prices drop in 2026Q3 even though critical mineral policies remained mostly restrictive?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 53,
+    "evidence_quote": "The decline in lithium prices\nreflected the restart of previously curtailed mines\nin Australia, the resumption of concentrate exports\nfrom Zimbabwe, and softer EV sales momentum\nin China, although strong demand from energy\nstorage and robust EV demand in several other\nregions provided support.",
+    "expected_answer": "Lithium prices fell 13 percent due to restarted mines in Australia, resumed concentrate exports from Zimbabwe, and slower EV sales growth in China, while cobalt fell 25 percent as a partial reversal of earlier price gains.",
+    "filter": null
+  },
+  {
+    "id": "q19",
+    "type": "dieu_kien_ngoai_le",
+    "split": "test",
+    "question": "Under what condition is Middle East natural gas output expected to remain below its 2025 level in 2027 despite an overall regional recovery?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 29,
+    "evidence_quote": "Global production is forecast to increase by about\n2.5 percent (110 bcm) in 2027, led by nearly a 5.5\npercent (39 bcm) recovery in the Middle East,\nwith the region’s output expected to remain below\nits 2025 level because of reduced LNG export\ncapacity in Qatar and delays to its North Field\nexpansion.",
+    "expected_answer": "Middle East natural gas output will remain below its 2025 level in 2027 because of reduced LNG export capacity in Qatar and delays to Qatar's North Field expansion.",
+    "filter": null
+  },
+  {
+    "id": "q20",
+    "type": "co_filter",
+    "split": "test",
+    "question": "In the Special Focus section, why does crude oil rank among the top three net volatility transmitters on only 10 percent of trading days despite having one of the strongest positive net-connectedness values in the full sample?",
+    "gold_source_id": "wb_cmo_2026_10",
+    "gold_page": 60,
+    "evidence_quote": "The explanation is that oil's contribution is\nconcentrated in a small number of high-volatility\nepisodes rather than distributed evenly across the\nsample, whereas silver and, to a lesser extent, maize\nbridge the network more continuously through\nlinks that do not depend on episodes of global\nstress.",
+    "expected_answer": "Oil's volatility transmission is concentrated in a small number of high-volatility stress episodes (such as energy supply disruptions) rather than distributed evenly across normal trading days.",
+    "filter": {
+      "section": "Special Focus Commodity Price Connections: How Does Volatility Spread?"
+    }
+  }
+]
